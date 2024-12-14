@@ -1,0 +1,9 @@
+implement
+
+    const handleSubmit = (e) => {
+        e.preventDefault()
+
+    }
+
+
+in TransMaster pages to complete the transaction.
